@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="stackoverfaux:war">
+    <output-path>$USER_HOME$/code/stackoverfaux/target</output-path>
+    <root id="archive" name="stackoverfaux.war">
+      <element id="artifact" artifact-name="stackoverfaux:war exploded" />
+    </root>
+  </artifact>
+</component>
